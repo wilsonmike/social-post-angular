@@ -44,3 +44,8 @@ body {
   margin-left: 90%;
   margin-top: 400px;
 }
+.branding {
+  margin-left: 10%;
+  color: white;
+  position: absolute;
+}
