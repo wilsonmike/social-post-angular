@@ -1,0 +1,12 @@
+.post-list {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  height: 100vh;
+  width: 60%;
+  margin: 0 auto;
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid grey;
+  padding: 20px;
+}

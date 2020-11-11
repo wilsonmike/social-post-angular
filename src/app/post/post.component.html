@@ -1,0 +1,12 @@
+<li class="card">
+  <p class="title">{{ postRef.title }}</p>
+  <p class="thought">{{ postRef.thought }}</p>
+  <div>
+    <img
+      (click)="emitDeleteEvent()"
+      class="delete-btn"
+      src="assets/recycle-bin.svg"
+      alt=""
+    />
+  </div>
+</li>
