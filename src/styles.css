@@ -21,3 +21,26 @@ body {
 
   font-family: "Asap Condensed", sans-serif;
 }
+.clouds {
+  height: 60px;
+  width: 60px;
+  z-index: 2;
+  position: absolute;
+  margin-left: 25%;
+}
+.clouds1 {
+  height: 90px;
+  width: 90px;
+  z-index: 2;
+  position: absolute;
+  margin-left: 20%;
+  margin-top: 200px;
+}
+.clouds2 {
+  height: 100px;
+  width: 100px;
+  z-index: 2;
+  position: absolute;
+  margin-left: 90%;
+  margin-top: 400px;
+}
